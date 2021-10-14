@@ -1,4 +1,5 @@
-<img src="https://download1.dcloud.net.cn/uploads/images/hbuilderx/icon/hbuilderx_icon@2x.png" style="text-align: center;"/>
+<div style="width: 100%;height: 200px;background: url(https://download1.dcloud.net.cn/uploads/images/hbuilderx/icon/hbuilderx_icon@2x.png) no-repeat center center;"></div>
+
 `HBuilderX` H is the first letter of HTML, Builder is the builder, X is the next version of HBuilder. We are also referred to as `HX`.
 
 `HBuilderX` is lightweight but powerful IDE.
