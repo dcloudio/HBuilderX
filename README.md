@@ -1,10 +1,14 @@
-<div style="width: 100%;height: 200px;background: url(https://download1.dcloud.net.cn/uploads/images/hbuilderx/icon/hbuilderx_icon@2x.png) no-repeat center center;"></div>
+<div align="center">
+  <img src="https://download1.dcloud.net.cn/uploads/images/hbuilderx/icon/hbuilderx_icon@2x.png" style="height: 80px; width: 80px;"/>
+</div>
+
+--------------------------------------------------
 
 `HBuilderX` H is the first letter of HTML, Builder is the builder, X is the next version of HBuilder. We are also referred to as `HX`.
 
 `HBuilderX` is lightweight but powerful IDE.
 
-#### Features
+## Features
 1. **Lightweight**
 <br/>Only 10M install package (excluding plugins)
 2. **Super Fast**
@@ -25,12 +29,12 @@
 <br/>`HX` provides more efficient way for modern json structures. [Details](/Tutorial/Language/json)
 
 
-#### Scalability
+## Scalability
 `HX` supports java and nodejs plugins, compatible with vscode plugins and code blocks.<br/>
 `HX` can easily use [External Commands](/Tutorial/UserGuide/externalCommands) to call commands and set hotkeys.<br/>
 Switch the hotkeys in Tool->[Keymaps](/Tutorial/keybindings) according to your preferences.(for example: vscode, sublime)
 
-#### Plugins Market
+## Plugins Market
 
 Reduce your development time and cost through HBuilderX Plugins Market.
 
