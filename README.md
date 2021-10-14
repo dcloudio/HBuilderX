@@ -1,48 +1,35 @@
-# HBuilderX 自述文件 (markdown格式)
-***************************************
+`HBuilderX` H is the first letter of HTML, Builder is the builder, X is the next version of HBuilder. We are also referred to as `HX`.
 
-`HBuilderX`，H是HTML的首字母，Builder是构造者，X是HBuilder的下一代版本。我们也简称`HX`。
-`HX`是**轻如编辑器、强如IDE**的合体版本。
+`HBuilderX` is lightweight but powerful IDE.
 
-## 让我们简单了解下HX的特点
-1. 轻巧
-	仅10余M的绿色发行包(不含插件)
-2. 极速
-	不管是启动速度、大文档打开速度、编码提示，都极速响应
-	C++的架构性能远超Java或Electron架构
-3. vue开发强化
-	`HX`对vue做了大量优化投入，开发体验远超其他开发工具
-	[详见](https://ask.dcloud.net.cn/article/19601) 按下Alt+鼠标左键可直接打开网址
-4. 小程序支持
-	国外开发工具没有对中国的小程序开发优化，`HX`可开发`uni-app`或`小程序`、`快应用`等项目，为国人提供更高效工具
-5. markdown利器
-	`HX`是唯一一个新建文件默认类型是markdown的编辑器，也是对md支持最强的编辑器
-	`HX`为md强化了众多功能，请**务必点击**【菜单-帮助-markdown语法示例】，快速掌握md及`HX`的强化技巧！
-6. 清爽护眼
-	HX的界面比其他工具更清爽简洁，绿柔主题经过科学的脑疲劳测试，是最适合人眼长期观看的主题界面
-	[详见](https://ask.dcloud.net.cn/article/35112)
-7. 强大的语法提示
-	`HX`是中国唯一一家拥有自主IDE语法分析引擎的公司，对前端语言提供准确的代码提示和转到定义(Alt+鼠标左键)
-8. 高效极客工具
-	更强大的多光标、智能双击...让字处理的效率大幅提升
-	了解`HX`的极客技巧，[详见](https://ask.dcloud.net.cn/article/13191)，
-9. 更强的json支持
-	现代js开发中大量json结构的写法，`HX`提供了比其他工具更高效的操作
-	[详见](https://ask.dcloud.net.cn/article/13526)
+#### Features
+1. **Lightweight**
+<br/>Only 10M install package (excluding plugins)
+2. **Super Fast**
+<br/>Startup speed, large file opening speed and coding prompt speed are extremely fast. Implemented with C++，excellent architecture than Java or Electron.
+3. **Built for Vue**
+<br/>`HX` has made a lot of optimizations to Vue , which has a better user experience than other tools.
+	[Details](/Tutorial/Language/vue)
+4. **Markdown Tool**
+<br/>`HX` is the only IDE which open a new file with the default file type as markdown. Also it provides the super powerful support for md. 
+<br/>`HX` provides variety of functions for md. please **be sure to click** [Menu-Help-Markdown Syntax Example] refer to [manual] -> [help] -> [markdown help] to learn md and HX quickly.
+5. **Easy on the eyes**
+<br/>The UI of HX is simple and clear. A default soft-green theme optimized for long work. [Details](/Tutorial/Other/health)
+6. **Powerfull Intellisense**
+<br/>`HX` is the unique software company in china with its own independent IDE syntax analysis engine. It provides accurate auto-completion and [Go to definition](/Tutorial/UserGuide/goto)(Alt+Left mouse)
+7. **Efficient Text Editing**
+<br/>Multi-cursor / multi-line selection. Smart auto selection on double click.Smart hotkeys that work even without selection. [Details](/Tutorial/UserGuide/selection)
+8. **Powerful JSON support**
+<br/>`HX` provides more efficient way for modern json structures. [Details](/Tutorial/Language/json)
 
 
-## 扩展性
-`HX`支持java插件、nodejs插件，并兼容了很多vscode的插件及代码块。
-还可以通过外部命令，方便的调用各种命令行功能，并设置快捷键。
+#### Scalability
+`HX` supports java and nodejs plugins, compatible with vscode plugins and code blocks.<br/>
+`HX` can easily use [External Commands](/Tutorial/UserGuide/externalCommands) to call commands and set hotkeys.<br/>
+Switch the hotkeys in Tool->[Keymaps](/Tutorial/keybindings) according to your preferences.(for example: vscode, sublime)
 
-如果你习惯了其他工具(如vscode或sublime)的快捷键，在菜单工具-快捷键方案中可以切换。
+#### Plugins Market
 
-## 结语
-在我们团队内部，`HX`不止替代了其他开发工具，还替代了记事本、word、evernote等，成为霸屏工具，令我们爱不释手。
-希望你也会喜欢上这款免费工具。
+Reduce your development time and cost through HBuilderX Plugins Market.
 
-[赞助](https://dev.dcloud.net.cn/sponsor/) 欢迎对我们的工作给予支持
-[需求墙](https://dev.dcloud.net.cn/wish/) 可以在这里投票，以影响我们的工作优先级
-[论坛](https://ask.dcloud.net.cn/explore/)
-[Github](https://github.com/dcloudio/HBuilderX)
-IDE QQ专用群：750929504
+Market: [https://ext.dcloud.net.cn/](https://ext.dcloud.net.cn/?cat1=1&cat2=11&orderBy=FreeHot)
